@@ -1,0 +1,2 @@
+python-telegram-bot>=13.0.0
+spotipy>=2.18.0
